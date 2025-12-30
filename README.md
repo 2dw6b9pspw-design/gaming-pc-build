@@ -39,7 +39,7 @@ This project documents the complete lifecycle of a custom-built desktop system, 
 
 ## Repository Structure
 
-```text
+
 gaming-pc-build-it-homelab/
 │
 ├── README.md
@@ -63,8 +63,7 @@ gaming-pc-build-it-homelab/
     ├── cinebench-multicore.png
     ├── cinebench-singlecore.png
     └── samsung-990pro-benchmark.png
-
- ---
+    ---
 
 ## Documentation Overview
 
@@ -86,6 +85,8 @@ Successfully delivered a stable and usable gaming system while producing a fully
 ## Notes
 
 This project was intentionally documented with an IT-focused mindset rather than as a hobby build. All configuration changes, troubleshooting steps, and validation activities were recorded to improve repeatability, maintainability, and clarity.
+
+
 
 
 
