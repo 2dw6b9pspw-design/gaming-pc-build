@@ -64,7 +64,10 @@ gaming-pc-build-it-homelab/
     ├── cinebench-singlecore.png
     └── samsung-990pro-benchmark.png
 
-![Final Build](images/completed-build.png)
+
+
+
+
 
 
 
