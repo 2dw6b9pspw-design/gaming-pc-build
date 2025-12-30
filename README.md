@@ -63,6 +63,29 @@ gaming-pc-build-it-homelab/
     ├── cinebench-multicore.png
     ├── cinebench-singlecore.png
     └── samsung-990pro-benchmark.png
+ ---
+
+## Documentation Overview
+
+- **[parts-list.md](parts-list.md)** — System components and selection rationale  
+- **[build/build-steps.md](build/build-steps.md)** — Step-by-step hardware assembly process  
+- **[configuration/bios-settings.md](configuration/bios-settings.md)** — BIOS configuration, firmware updates, and validation  
+- **[configuration/os-installation.md](configuration/os-installation.md)** — Operating system installation and documented troubleshooting  
+- **[troubleshooting/performance-testing.md](troubleshooting/performance-testing.md)** — System validation using monitoring, stress testing, and benchmarking tools  
+- **[lessons-learned.md](lessons-learned.md)** — Reflections, process improvements, and future considerations  
+
+---
+
+## Outcome
+
+Successfully delivered a stable and usable gaming system while producing a fully documented project demonstrating practical IT skills. This repository serves as a portfolio artifact showcasing hands-on experience with system building, configuration, troubleshooting, validation, and professional documentation practices.
+
+---
+
+## Notes
+
+This project was intentionally documented with an IT-focused mindset rather than as a hobby build. All configuration changes, troubleshooting steps, and validation activities were recorded to improve repeatability, maintainability, and clarity.
+
 
 
 
