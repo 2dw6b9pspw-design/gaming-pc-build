@@ -1,12 +1,12 @@
-# Gaming PC Build & System Configuration Project
+# Custom PC Build, OS Deployment, and System Hardening
 
 ![Completed Build](images/completed-build.png)
 
 ## Project Overview
 
-Designed and built a custom gaming PC for an 8-year-old end user with the dual purpose of delivering a reliable, age-appropriate gaming system and establishing a documented, hands-on IT project.
+Designed and built a custom end-user workstation with a focus on reliability, performance, and maintainability, while producing a fully documented, hands-on IT project.
 
-The primary objectives of this project were to balance performance and cost, ensure long-term usability through future-proof component selection, and gain practical experience across the full system lifecycle. Emphasis was placed on hardware planning, system assembly, firmware configuration, operating system installation, troubleshooting, performance validation, and professional technical documentation.
+This project emphasizes the complete system lifecycle, including hardware planning, system assembly, firmware configuration, operating system deployment, baseline system hardening, troubleshooting, performance validation, and professional technical documentation.
 
 ---
 
@@ -17,7 +17,7 @@ This project documents the complete lifecycle of a custom-built desktop system, 
 - Component research and selection with performance-to-cost analysis
 - Physical system assembly and validation
 - BIOS configuration and firmware updates
-- Operating system installation and configuration
+- Operating system installation, configuration, and baseline hardening
 - Driver installation and troubleshooting
 - Performance testing and thermal validation
 - Documentation of lessons learned and process improvements
@@ -31,6 +31,9 @@ This project documents the complete lifecycle of a custom-built desktop system, 
 - BIOS configuration and firmware management
 - Operating system deployment and troubleshooting
 - Driver installation and update management
+- Local user vs administrator account configuration
+- Baseline workstation security configuration
+- Patch management and update validation
 - Performance testing and system validation
 - Problem-solving using documented workarounds
 - Technical documentation using Markdown and GitHub
@@ -72,7 +75,7 @@ gaming-pc-build-it-homelab/
 - **[parts-list.md](parts-list.md)** — System components and selection rationale  
 - **[build/build-steps.md](build/build-steps.md)** — Step-by-step hardware assembly process  
 - **[configuration/bios-settings.md](configuration/bios-settings.md)** — BIOS configuration, firmware updates, and validation  
-- **[configuration/os-installation.md](configuration/os-installation.md)** — Operating system installation and documented troubleshooting  
+- **[configuration/os-installation.md](configuration/os-installation.md)** — Operating system installation, configuration, and documented troubleshooting  
 - **[troubleshooting/performance-testing.md](troubleshooting/performance-testing.md)** — System validation using monitoring, stress testing, and benchmarking tools  
 - **[lessons-learned.md](lessons-learned.md)** — Reflections, process improvements, and future considerations  
 
@@ -80,10 +83,11 @@ gaming-pc-build-it-homelab/
 
 ## Outcome
 
-Successfully delivered a stable and usable gaming system while producing a fully documented project demonstrating practical IT skills. This repository serves as a portfolio artifact showcasing hands-on experience with system building, configuration, troubleshooting, validation, and professional documentation practices.
+Successfully delivered a stable and usable end-user workstation while producing a fully documented project demonstrating practical IT skills. This repository serves as a portfolio artifact showcasing hands-on experience with system building, OS deployment, baseline hardening, troubleshooting, validation, and professional documentation practices.
 
 ---
 
 ## Notes
 
 This project was intentionally documented with an IT-focused mindset rather than as a hobby build. All configuration changes, troubleshooting steps, and validation activities were recorded to improve repeatability, maintainability, and clarity.
+
